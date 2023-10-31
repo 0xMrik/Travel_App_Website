@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 Introduction
+---------------
 
-## Getting Started
+This is a simple mockup for a travel App. It is a fully responsive, modern UI/UX travel application built using Next.js 13. The application serves as a comprehensive guide for travelers
 
-First, run the development server:
+![chrome-capture-2023-10-31](https://github.com/0xMrik/Travel_App_Website/assets/114156582/9a8751e7-4807-4911-80f4-fd15e5374fd2)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✨ Features
+----------
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 📌 **Modern UI**: A sleek minimalist hero section, ushering users into the app's intricate search and filtering arena.
+- 📌 **Code Architecture**: The project is structured to improve code reusability and maintainability.
+- 📌 **Best Practices**: Follows industry best practices, including the use of TypeScript and Tailwind CSS.
+- 📌 **Server-Side Rendering (SSR)**: Harnessing the power of Next.js's server-side rendering for a seamless user interaction.
+- 📌 **Mobile Responsiveness**: A design that gracefully conforms to various device dimensions, ensuring an uninterrupted usability.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+🛠️ Technology Stack
+--------------------
 
-To learn more about Next.js, take a look at the following resources:
+- 📌 **Next.js 13**: The structural framework of the application, enabling features like SSR.
+- 📌 **React.js**: The magic wand for crafting the user interface.
+- 📌 **Tailwind CSS**: A utility-first CSS toolbox for swiftly creating custom designs.
+- 📌 **TypeScript**: A JavaScript superset injecting static types into the code.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👀 Demo
+----------
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![ezgif com-optimize (1)](https://github.com/0xMrik/Travel_App_Website/assets/114156582/684c1535-8a46-4233-b121-483611b3c498)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
